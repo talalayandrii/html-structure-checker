@@ -1,0 +1,13 @@
+{
+  "name": "tests",
+  "require": {
+    "phpunit/phpunit": "*",
+    "symfony/dom-crawler": "~3.0.2",
+    "symfony/css-selector": "~3.0.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "TestApp\\": "src/"
+    }
+  }
+}
