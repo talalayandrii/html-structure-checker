@@ -39,7 +39,7 @@ HTML;
             ->children()
                 ->node('div.component')
                     ->hasAttribute('id', 'comp-289351c9085')
-                    ->hasClass('component')
+//                    ->hasClass('component')
                     ->children()
                         ->node('div.component-wrapper')
                             ->children()
