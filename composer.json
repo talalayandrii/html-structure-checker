@@ -1,5 +1,5 @@
 {
-  "name": "tests",
+  "name": "html-structure-checker",
   "require": {
     "phpunit/phpunit": "*",
     "symfony/dom-crawler": "~3.0.2",
